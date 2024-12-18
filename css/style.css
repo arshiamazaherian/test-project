@@ -32,6 +32,16 @@ header ul li {
   margin: 0 15px;
 }
 
+ul li {
+  border-bottom: 2px solid transparent;
+  transition: all 0.2s;
+}
+
+ul li:hover {
+  cursor: pointer;
+  border-bottom: 2px solid black;
+}
+
 main {
   display: flex;
   flex-wrap: wrap;

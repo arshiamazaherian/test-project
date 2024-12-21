@@ -39,11 +39,11 @@ ul li {
 
 ul li:hover {
   cursor: pointer;
-  border-bottom: 2px solid rgb(255, 255, 255);
+  border-bottom: 2px solid orange;
 }
 
 ul a:hover {
-  color: rgb(255, 255, 255);
+  color: orange;
 }
 
 main {

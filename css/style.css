@@ -13,6 +13,10 @@
 
 body {
   background-color: whitesmoke;
+  background-image: url("../assets/images/linux\ \(3\).png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 header {

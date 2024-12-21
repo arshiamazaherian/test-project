@@ -59,6 +59,12 @@ main .info-container {
     rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
   border-radius: 15px;
   overflow: hidden;
+  transition: all 0.5s;
+}
+
+main .info-container:hover {
+  scale: 1.05;
+  cursor: pointer;
 }
 
 main .info-container img {

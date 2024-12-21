@@ -64,6 +64,7 @@ main .info-container {
   border-radius: 15px;
   overflow: hidden;
   transition: all 0.5s;
+  background-color: whitesmoke;
 }
 
 main .info-container:hover {
